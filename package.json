@@ -67,7 +67,7 @@
     "vary": "^1.1.2"
   },
   "scripts": {
-    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+    "start": "node --experimental-modules src/server.js"
   },
   "repository": {
     "type": "git",

@@ -1,4 +1,0 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Allow: /
-Sitemap: http://f2i-dev19-smv-dm-nm.fr/sitemap.xml
